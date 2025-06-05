@@ -29,4 +29,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}  # ✅ これでOK！
           publish_dir: ./public
           publish_branch: gh-pages
-verbose: true
+          verbose: true
