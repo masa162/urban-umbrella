@@ -6,8 +6,15 @@
     <description>Recent content in Posts on recroom</description>
     <generator>Hugo -- 0.147.4</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 09 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/urban-umbrella/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>urban-umbrella整理中</title>
+      <link>http://localhost:1313/urban-umbrella/posts/urban-umbrella%E6%95%B4%E7%90%86%E4%B8%AD/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/urban-umbrella/posts/urban-umbrella%E6%95%B4%E7%90%86%E4%B8%AD/</guid>
+      <description>&lt;p&gt;竹取の湯に来ている&lt;/p&gt;</description>
+    </item>
     <item>
       <title>記事一覧ページ追加中</title>
       <link>http://localhost:1313/urban-umbrella/posts/20250609_01-log/</link>
